@@ -1,0 +1,10 @@
+a=list(map(int,input().split()))
+a.reverse()
+print(a)
+
+or
+
+a=list(map(int,input().split()))
+print(a[::-1])
+
+
